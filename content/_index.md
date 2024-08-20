@@ -31,7 +31,7 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
-        color: "gray"
+        color: "red"
         image:
           # Add your image background to `assets/media/`.
           filename: bg-triangles.svg
@@ -116,7 +116,7 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
   - block: testimonials
     content:
-      title: ""s
+      title: ""
       text: ""
       items:
         - name: "Hugo Smith"
