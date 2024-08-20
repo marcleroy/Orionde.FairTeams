@@ -95,28 +95,28 @@ sections:
             - "Choose the number of teams"
             - "And change team colors if you really want to"
           # Upload image to `assets/media/` and reference the filename here
-          image: "Screenshot 2024-08-20 105831.png"
+          image: "Screenshot 2024-08-20 105928.png"
           button:
             text: Download
             url: https://hugoblox.com/templates/
-        - title: Large Community
-          text: Join our large community on Discord - ask questions and get live responses
+        - title: Generate a unique draw for each session
+          text: Just a click to assign the players, and you're ready to play
           feature_icon: bolt
           features:
-            - "Dedicated support channel"
-            - "3,000+ users on Discord"
-            - "Share your site and get feedback"
+            - "Choose a player oin a row"
+            - "Click on the pull button"
+            - "Assign the player to the pulled team, with team number or color"
           # Upload image to `assets/media/` and reference the filename here
-          image: coffee.jpg
+          image: "Screenshot 2024-08-20 105956.png"
           button:
-            text: Join Discord
+            text: Try it now!
             url: https://discord.gg/z8wNYzb
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
   - block: testimonials
     content:
-      title: ""
+      title: ""s
       text: ""
       items:
         - name: "Hugo Smith"
