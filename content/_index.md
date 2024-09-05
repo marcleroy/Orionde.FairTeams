@@ -96,7 +96,7 @@ sections:
             - "And change team colors if you really want to"
           # Upload image to `assets/media/` and reference the filename here
           # image: "Screenshot 2024-08-20 105928.png"
-          image: "{{< resize-image src="Screenshot 2024-08-20 105928.png" width="800x" alt="Setup your teams" >}}"
+          image: "{{<resize-image src="Screenshot 2024-08-20 105928.png" width="800x" alt="Setup your teams">}}"
           button:
             text: Download
             url: https://hugoblox.com/templates/
@@ -109,7 +109,7 @@ sections:
             - "Assign the player to the pulled team, with team number or color"
           # Upload image to `assets/media/` and reference the filename here
           # image: "Screenshot 2024-08-20 105956.png"
-          image: "{{< resize-image src="Screenshot 2024-08-20 105956.png" width="800x" alt="Setup your teams" >}}"
+          image: "{{<resize-image src="Screenshot 2024-08-20 105956.png" width="800x" alt="Setup your teams">}}"
           button:
             text: Try it now!
             url: https://discord.gg/z8wNYzb
