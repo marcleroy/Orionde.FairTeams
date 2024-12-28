@@ -95,9 +95,9 @@ sections:
             - "Choose the number of teams"
             - "And change team colors if you really want to"
           # Upload image to `assets/media/` and reference the filename here
-          image: 
-            src: "Screenshot 2024-08-20 105928.png"
-            width: 100px
+          image: "Screenshot 2024-08-20 105928.png" 
+            # src: "Screenshot 2024-08-20 105928.png"
+            # width: 100px
           # image: "{{<resize-image src="Screenshot 2024-08-20 105928.png" width="200x" alt="Setup your teams">}}"
           button:
             text: Download
