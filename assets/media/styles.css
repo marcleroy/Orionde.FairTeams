@@ -1,0 +1,5 @@
+.cta-image-paragraph img {
+    max-width: 100%; /* Ensures the image is responsive */
+    width: 180px;    /* Set a fixed width, e.g., 300px */
+    height: auto;    /* Maintain aspect ratio */
+}
