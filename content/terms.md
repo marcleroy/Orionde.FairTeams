@@ -1,12 +1,12 @@
 ---
 title: Terms of Service
-date: 2023-12-01
+date: 2025-22-01
 share: false
 ---
 
 **Legal Terms for Orionde Fusion**
 
-Effective Date: 2025-01-22
+Effective Date: 2025-22-01
 
 Welcome to Orionde Fusion! By accessing or using our services, you agree to the following terms and conditions. Please read them carefully.
 

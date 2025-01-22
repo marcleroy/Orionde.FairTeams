@@ -6,7 +6,7 @@ share: false
 
 **Privacy Policy**
 
-Effective Date: 01.22.2025
+Effective Date: 2025-22-01
 
 **1. Introduction**
 Thank you for using our mobile application ("App"). This Privacy Policy explains how we handle your data. As a demo app for random team draws, we prioritize user privacy and do not collect or retain any personal data.

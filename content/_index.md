@@ -95,7 +95,7 @@ sections:
             - "Choose the number of teams"
             - "And change team colors if you really want to"
           # Upload image to `assets/media/` and reference the filename here
-          image: "Fair Teams - Settings screen.png" 
+          image: "Fair Teams - Settings screen small.png" 
             # src: "Screenshot 2024-08-20 105928.png"
             # width: 100px
           # image: "{{<resize-image src="Screenshot 2024-08-20 105928.png" width="200x" alt="Setup your teams">}}"
@@ -110,7 +110,7 @@ sections:
             - "Click on the pull button"
             - "Assign the player to the pulled team, with team number or color"
           # Upload image to `assets/media/` and reference the filename here
-          image: "Fair Teams - Pull 1 screen.png"
+          image: "Fair Teams - Pull 1 screen small.png"
           # image: "{{<resize-image src="Screenshot 2024-08-20 105956.png" width="200x" alt="Setup your teams">}}"
           button:
             text: Try it now!
